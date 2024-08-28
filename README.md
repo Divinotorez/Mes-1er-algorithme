@@ -1,1 +1,1 @@
-Ici se trouve les algorithme effectués pour ,on &er stqge en progrq,,qtin
+Ici se trouve les algorithme effectués lors de mon 1er stage en programmation.
